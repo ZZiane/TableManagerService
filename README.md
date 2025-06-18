@@ -11,7 +11,7 @@ The **TableManager SQL API** is a RESTful service built using **Spring Boot** to
 - **Data Insertion**: 
   - Insert records into specified tables.
 - **Multi-Database Support**: 
-  - Connect to databases like MySQL, DB2, and H2 (in-memory).
+  - Connect to databases like MySQL, DB2, and H2.
 - **Spring Boot Integration**:
   - Uses Spring Boot Actuator for health checks and monitoring.
   - Implements Spring Data JPA for database interactions.
